@@ -1,0 +1,5 @@
+evn: "local"
+token: ""
+storage:
+  storage_url: "postgres://postgres:1234@localhost:5434/songdb?sslmode=disable"
+  migrations_path: "migrations"
